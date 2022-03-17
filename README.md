@@ -1952,6 +1952,8 @@
 3 | [A - Next Round](https://codeforces.com/contest/158/problem/A) | [GNU C++](./codeforces/158/A.cpp) | `*special problem` `implementation` `*800` | Oct/20/2017 23:21 | 
 2 | [A - Way Too Long Words](https://codeforces.com/contest/71/problem/A) | [GNU C++](./codeforces/71/A.cpp) | `strings` `*800` | Oct/20/2017 23:02 | 
 1 | [A - Theatre Square](https://codeforces.com/contest/1/problem/A) | [GNU C++](./codeforces/1/A.cpp) | `math` `*1000` | Oct/19/2017 01:46 | 
+
+
 © 2022 GitHub, Inc.
 Terms
 Privacy
